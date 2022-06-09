@@ -1,0 +1,15 @@
+D:\Projects\RandonNumberGenerator\bin\Debug\net6.0\RandonNumberGenerator.exe
+D:\Projects\RandonNumberGenerator\bin\Debug\net6.0\RandonNumberGenerator.deps.json
+D:\Projects\RandonNumberGenerator\bin\Debug\net6.0\RandonNumberGenerator.runtimeconfig.json
+D:\Projects\RandonNumberGenerator\bin\Debug\net6.0\RandonNumberGenerator.dll
+D:\Projects\RandonNumberGenerator\bin\Debug\net6.0\RandonNumberGenerator.pdb
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\RandonNumberGenerator.csproj.AssemblyReference.cache
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\RandonNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\RandonNumberGenerator.AssemblyInfoInputs.cache
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\RandonNumberGenerator.AssemblyInfo.cs
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\RandonNumberGenerator.csproj.CoreCompileInputs.cache
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\RandonNumberGenerator.dll
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\refint\RandonNumberGenerator.dll
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\RandonNumberGenerator.pdb
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\RandonNumberGenerator.genruntimeconfig.cache
+D:\Projects\RandonNumberGenerator\obj\Debug\net6.0\ref\RandonNumberGenerator.dll
